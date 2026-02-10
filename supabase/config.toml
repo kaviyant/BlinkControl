@@ -1,0 +1,7 @@
+project_id = "fkzqlsdywxsgerwfszpu"
+
+[functions.send-emergency-email]
+verify_jwt = false
+
+[functions.send-voice-message]
+verify_jwt = false
